@@ -1,0 +1,91 @@
+C:\Users\saiga\OneDrive\Desktop\DAM-PESTS-master\DAM-PESTS-master\ui\bin\Release\BitsBolts.exe.config
+C:\Users\saiga\OneDrive\Desktop\DAM-PESTS-master\DAM-PESTS-master\ui\bin\Release\BitsBolts.exe.manifest
+C:\Users\saiga\OneDrive\Desktop\DAM-PESTS-master\DAM-PESTS-master\ui\bin\Release\BitsBolts.application
+C:\Users\saiga\OneDrive\Desktop\DAM-PESTS-master\DAM-PESTS-master\ui\bin\Release\BitsBolts.exe
+C:\Users\saiga\OneDrive\Desktop\DAM-PESTS-master\DAM-PESTS-master\ui\bin\Release\BitsBolts.pdb
+C:\Users\saiga\OneDrive\Desktop\DAM-PESTS-master\DAM-PESTS-master\ui\bin\Release\EntityFramework.dll
+C:\Users\saiga\OneDrive\Desktop\DAM-PESTS-master\DAM-PESTS-master\ui\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\saiga\OneDrive\Desktop\DAM-PESTS-master\DAM-PESTS-master\ui\bin\Release\GMap.NET.Core.dll
+C:\Users\saiga\OneDrive\Desktop\DAM-PESTS-master\DAM-PESTS-master\ui\bin\Release\GMap.NET.WindowsForms.dll
+C:\Users\saiga\OneDrive\Desktop\DAM-PESTS-master\DAM-PESTS-master\ui\bin\Release\GMap.NET.WindowsPresentation.dll
+C:\Users\saiga\OneDrive\Desktop\DAM-PESTS-master\DAM-PESTS-master\ui\bin\Release\M2Mqtt.Net.dll
+C:\Users\saiga\OneDrive\Desktop\DAM-PESTS-master\DAM-PESTS-master\ui\bin\Release\Newtonsoft.Json.dll
+C:\Users\saiga\OneDrive\Desktop\DAM-PESTS-master\DAM-PESTS-master\ui\bin\Release\System.Data.SQLite.dll
+C:\Users\saiga\OneDrive\Desktop\DAM-PESTS-master\DAM-PESTS-master\ui\bin\Release\System.Data.SQLite.EF6.dll
+C:\Users\saiga\OneDrive\Desktop\DAM-PESTS-master\DAM-PESTS-master\ui\bin\Release\System.Data.SQLite.Linq.dll
+C:\Users\saiga\OneDrive\Desktop\DAM-PESTS-master\DAM-PESTS-master\ui\bin\Release\EntityFramework.xml
+C:\Users\saiga\OneDrive\Desktop\DAM-PESTS-master\DAM-PESTS-master\ui\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\saiga\OneDrive\Desktop\DAM-PESTS-master\DAM-PESTS-master\ui\bin\Release\M2Mqtt.Net.pdb
+C:\Users\saiga\OneDrive\Desktop\DAM-PESTS-master\DAM-PESTS-master\ui\bin\Release\Newtonsoft.Json.xml
+C:\Users\saiga\OneDrive\Desktop\DAM-PESTS-master\DAM-PESTS-master\ui\bin\Release\System.Data.SQLite.xml
+C:\Users\saiga\OneDrive\Desktop\DAM-PESTS-master\DAM-PESTS-master\ui\bin\Release\System.Data.SQLite.dll.config
+C:\Users\saiga\OneDrive\Desktop\DAM-PESTS-master\DAM-PESTS-master\ui\obj\Release\BitsBolts.csprojAssemblyReference.cache
+C:\Users\saiga\OneDrive\Desktop\DAM-PESTS-master\DAM-PESTS-master\ui\obj\Release\BitsBolts.Form1.resources
+C:\Users\saiga\OneDrive\Desktop\DAM-PESTS-master\DAM-PESTS-master\ui\obj\Release\BitsBolts.Properties.Resources.resources
+C:\Users\saiga\OneDrive\Desktop\DAM-PESTS-master\DAM-PESTS-master\ui\obj\Release\BitsBolts.csproj.GenerateResource.cache
+C:\Users\saiga\OneDrive\Desktop\DAM-PESTS-master\DAM-PESTS-master\ui\obj\Release\BitsBolts.exe.manifest
+C:\Users\saiga\OneDrive\Desktop\DAM-PESTS-master\DAM-PESTS-master\ui\obj\Release\BitsBolts.application
+C:\Users\saiga\OneDrive\Desktop\DAM-PESTS-master\DAM-PESTS-master\ui\obj\Release\BitsBolts.csproj.CopyComplete
+C:\Users\saiga\OneDrive\Desktop\DAM-PESTS-master\DAM-PESTS-master\ui\obj\Release\BitsBolts.exe
+C:\Users\saiga\OneDrive\Desktop\DAM-PESTS-master\DAM-PESTS-master\ui\obj\Release\BitsBolts.pdb
+C:\Users\saiga\OneDrive\Desktop\SCDF_Competition\scdf-innovation-challenge-2019\DAM-PESTS-master\ui\bin\Release\BitsBolts.exe.config
+C:\Users\saiga\OneDrive\Desktop\SCDF_Competition\scdf-innovation-challenge-2019\DAM-PESTS-master\ui\bin\Release\BitsBolts.exe.manifest
+C:\Users\saiga\OneDrive\Desktop\SCDF_Competition\scdf-innovation-challenge-2019\DAM-PESTS-master\ui\bin\Release\BitsBolts.application
+C:\Users\saiga\OneDrive\Desktop\SCDF_Competition\scdf-innovation-challenge-2019\DAM-PESTS-master\ui\bin\Release\BitsBolts.exe
+C:\Users\saiga\OneDrive\Desktop\SCDF_Competition\scdf-innovation-challenge-2019\DAM-PESTS-master\ui\bin\Release\BitsBolts.pdb
+C:\Users\saiga\OneDrive\Desktop\SCDF_Competition\scdf-innovation-challenge-2019\DAM-PESTS-master\ui\bin\Release\EntityFramework.dll
+C:\Users\saiga\OneDrive\Desktop\SCDF_Competition\scdf-innovation-challenge-2019\DAM-PESTS-master\ui\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\saiga\OneDrive\Desktop\SCDF_Competition\scdf-innovation-challenge-2019\DAM-PESTS-master\ui\bin\Release\GMap.NET.Core.dll
+C:\Users\saiga\OneDrive\Desktop\SCDF_Competition\scdf-innovation-challenge-2019\DAM-PESTS-master\ui\bin\Release\GMap.NET.WindowsForms.dll
+C:\Users\saiga\OneDrive\Desktop\SCDF_Competition\scdf-innovation-challenge-2019\DAM-PESTS-master\ui\bin\Release\GMap.NET.WindowsPresentation.dll
+C:\Users\saiga\OneDrive\Desktop\SCDF_Competition\scdf-innovation-challenge-2019\DAM-PESTS-master\ui\bin\Release\M2Mqtt.Net.dll
+C:\Users\saiga\OneDrive\Desktop\SCDF_Competition\scdf-innovation-challenge-2019\DAM-PESTS-master\ui\bin\Release\Newtonsoft.Json.dll
+C:\Users\saiga\OneDrive\Desktop\SCDF_Competition\scdf-innovation-challenge-2019\DAM-PESTS-master\ui\bin\Release\System.Data.SQLite.dll
+C:\Users\saiga\OneDrive\Desktop\SCDF_Competition\scdf-innovation-challenge-2019\DAM-PESTS-master\ui\bin\Release\System.Data.SQLite.EF6.dll
+C:\Users\saiga\OneDrive\Desktop\SCDF_Competition\scdf-innovation-challenge-2019\DAM-PESTS-master\ui\bin\Release\System.Data.SQLite.Linq.dll
+C:\Users\saiga\OneDrive\Desktop\SCDF_Competition\scdf-innovation-challenge-2019\DAM-PESTS-master\ui\bin\Release\EntityFramework.xml
+C:\Users\saiga\OneDrive\Desktop\SCDF_Competition\scdf-innovation-challenge-2019\DAM-PESTS-master\ui\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\saiga\OneDrive\Desktop\SCDF_Competition\scdf-innovation-challenge-2019\DAM-PESTS-master\ui\bin\Release\M2Mqtt.Net.pdb
+C:\Users\saiga\OneDrive\Desktop\SCDF_Competition\scdf-innovation-challenge-2019\DAM-PESTS-master\ui\bin\Release\Newtonsoft.Json.xml
+C:\Users\saiga\OneDrive\Desktop\SCDF_Competition\scdf-innovation-challenge-2019\DAM-PESTS-master\ui\bin\Release\System.Data.SQLite.xml
+C:\Users\saiga\OneDrive\Desktop\SCDF_Competition\scdf-innovation-challenge-2019\DAM-PESTS-master\ui\bin\Release\System.Data.SQLite.dll.config
+C:\Users\saiga\OneDrive\Desktop\SCDF_Competition\scdf-innovation-challenge-2019\DAM-PESTS-master\ui\obj\Release\BitsBolts.csprojAssemblyReference.cache
+C:\Users\saiga\OneDrive\Desktop\SCDF_Competition\scdf-innovation-challenge-2019\DAM-PESTS-master\ui\obj\Release\BitsBolts.Form1.resources
+C:\Users\saiga\OneDrive\Desktop\SCDF_Competition\scdf-innovation-challenge-2019\DAM-PESTS-master\ui\obj\Release\BitsBolts.Properties.Resources.resources
+C:\Users\saiga\OneDrive\Desktop\SCDF_Competition\scdf-innovation-challenge-2019\DAM-PESTS-master\ui\obj\Release\BitsBolts.csproj.GenerateResource.cache
+C:\Users\saiga\OneDrive\Desktop\SCDF_Competition\scdf-innovation-challenge-2019\DAM-PESTS-master\ui\obj\Release\BitsBolts.exe.manifest
+C:\Users\saiga\OneDrive\Desktop\SCDF_Competition\scdf-innovation-challenge-2019\DAM-PESTS-master\ui\obj\Release\BitsBolts.application
+C:\Users\saiga\OneDrive\Desktop\SCDF_Competition\scdf-innovation-challenge-2019\DAM-PESTS-master\ui\obj\Release\BitsBolts.csproj.CopyComplete
+C:\Users\saiga\OneDrive\Desktop\SCDF_Competition\scdf-innovation-challenge-2019\DAM-PESTS-master\ui\obj\Release\BitsBolts.exe
+C:\Users\saiga\OneDrive\Desktop\SCDF_Competition\scdf-innovation-challenge-2019\DAM-PESTS-master\ui\obj\Release\BitsBolts.pdb
+C:\Users\Vernon\Desktop\tmp\tmp (y3s1)\scdf-innovation-challenge-2019\DAM-PESTS-master\ui\obj\Release\BitsBolts.Form1.resources
+C:\Users\Vernon\Desktop\tmp\tmp (y3s1)\scdf-innovation-challenge-2019\DAM-PESTS-master\ui\obj\Release\BitsBolts.csproj.GenerateResource.cache
+C:\Users\Vernon\Desktop\tmp\tmp (y3s1)\scdf-innovation-challenge-2019\DAM-PESTS-master\ui\obj\Release\BitsBolts.exe
+C:\Users\Vernon\Desktop\tmp\tmp (y3s1)\scdf-innovation-challenge-2019\DAM-PESTS-master\ui\obj\Release\BitsBolts.pdb
+C:\Users\Vernon\Desktop\tmp\tmp (y3s1)\scdf-innovation-challenge-2019\DAM-PESTS-master\ui\bin\Release\BitsBolts.exe.config
+C:\Users\Vernon\Desktop\tmp\tmp (y3s1)\scdf-innovation-challenge-2019\DAM-PESTS-master\ui\bin\Release\BitsBolts.exe.manifest
+C:\Users\Vernon\Desktop\tmp\tmp (y3s1)\scdf-innovation-challenge-2019\DAM-PESTS-master\ui\bin\Release\BitsBolts.application
+C:\Users\Vernon\Desktop\tmp\tmp (y3s1)\scdf-innovation-challenge-2019\DAM-PESTS-master\ui\bin\Release\BitsBolts.exe
+C:\Users\Vernon\Desktop\tmp\tmp (y3s1)\scdf-innovation-challenge-2019\DAM-PESTS-master\ui\bin\Release\BitsBolts.pdb
+C:\Users\Vernon\Desktop\tmp\tmp (y3s1)\scdf-innovation-challenge-2019\DAM-PESTS-master\ui\bin\Release\EntityFramework.dll
+C:\Users\Vernon\Desktop\tmp\tmp (y3s1)\scdf-innovation-challenge-2019\DAM-PESTS-master\ui\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Vernon\Desktop\tmp\tmp (y3s1)\scdf-innovation-challenge-2019\DAM-PESTS-master\ui\bin\Release\GMap.NET.Core.dll
+C:\Users\Vernon\Desktop\tmp\tmp (y3s1)\scdf-innovation-challenge-2019\DAM-PESTS-master\ui\bin\Release\GMap.NET.WindowsForms.dll
+C:\Users\Vernon\Desktop\tmp\tmp (y3s1)\scdf-innovation-challenge-2019\DAM-PESTS-master\ui\bin\Release\GMap.NET.WindowsPresentation.dll
+C:\Users\Vernon\Desktop\tmp\tmp (y3s1)\scdf-innovation-challenge-2019\DAM-PESTS-master\ui\bin\Release\M2Mqtt.Net.dll
+C:\Users\Vernon\Desktop\tmp\tmp (y3s1)\scdf-innovation-challenge-2019\DAM-PESTS-master\ui\bin\Release\Newtonsoft.Json.dll
+C:\Users\Vernon\Desktop\tmp\tmp (y3s1)\scdf-innovation-challenge-2019\DAM-PESTS-master\ui\bin\Release\System.Data.SQLite.dll
+C:\Users\Vernon\Desktop\tmp\tmp (y3s1)\scdf-innovation-challenge-2019\DAM-PESTS-master\ui\bin\Release\System.Data.SQLite.EF6.dll
+C:\Users\Vernon\Desktop\tmp\tmp (y3s1)\scdf-innovation-challenge-2019\DAM-PESTS-master\ui\bin\Release\System.Data.SQLite.Linq.dll
+C:\Users\Vernon\Desktop\tmp\tmp (y3s1)\scdf-innovation-challenge-2019\DAM-PESTS-master\ui\bin\Release\EntityFramework.xml
+C:\Users\Vernon\Desktop\tmp\tmp (y3s1)\scdf-innovation-challenge-2019\DAM-PESTS-master\ui\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Vernon\Desktop\tmp\tmp (y3s1)\scdf-innovation-challenge-2019\DAM-PESTS-master\ui\bin\Release\M2Mqtt.Net.pdb
+C:\Users\Vernon\Desktop\tmp\tmp (y3s1)\scdf-innovation-challenge-2019\DAM-PESTS-master\ui\bin\Release\Newtonsoft.Json.xml
+C:\Users\Vernon\Desktop\tmp\tmp (y3s1)\scdf-innovation-challenge-2019\DAM-PESTS-master\ui\bin\Release\System.Data.SQLite.xml
+C:\Users\Vernon\Desktop\tmp\tmp (y3s1)\scdf-innovation-challenge-2019\DAM-PESTS-master\ui\bin\Release\System.Data.SQLite.dll.config
+C:\Users\Vernon\Desktop\tmp\tmp (y3s1)\scdf-innovation-challenge-2019\DAM-PESTS-master\ui\obj\Release\BitsBolts.Properties.Resources.resources
+C:\Users\Vernon\Desktop\tmp\tmp (y3s1)\scdf-innovation-challenge-2019\DAM-PESTS-master\ui\obj\Release\BitsBolts.csproj.CoreCompileInputs.cache
+C:\Users\Vernon\Desktop\tmp\tmp (y3s1)\scdf-innovation-challenge-2019\DAM-PESTS-master\ui\obj\Release\BitsBolts.exe.manifest
+C:\Users\Vernon\Desktop\tmp\tmp (y3s1)\scdf-innovation-challenge-2019\DAM-PESTS-master\ui\obj\Release\BitsBolts.application
+C:\Users\Vernon\Desktop\tmp\tmp (y3s1)\scdf-innovation-challenge-2019\DAM-PESTS-master\ui\obj\Release\BitsBolts.csproj.CopyComplete
+C:\Users\Vernon\Desktop\tmp\tmp (y3s1)\scdf-innovation-challenge-2019\DAM-PESTS-master\ui\obj\Release\BitsBolts.csprojAssemblyReference.cache
