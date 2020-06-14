@@ -19,7 +19,7 @@ Rubbish chute fires make up one-third of total fires in Singapore. These fires a
 Introducing EFIS, short for Early Fire Intervention System. A lightweight IoT device that will be deployed into every rubbish chute in Singapore. Upon detection of fire, the device will immediately alert nearby Community First Responders (CFRs) via the SCDF myResponder application to respond to the fire. It will also send its collected data to the SCDF data centre for further data analysis. Timestamp and location data of fire gives SCDF huge insights into the actual frequency of rubbish fires and hotspots. This can help SCDF to allocate resources appropriately in public education and identification of the culprits of rubbish chute fires.
 
 ## Pitch video
-[![Watch the video](https://youtu.be/xx1hbhyZzfY)
+[![Watch the video]((https://github.com/sevenbeets/Shrekt-EFIS-SCDFXIBM/blob/master/efis.png))](https://youtu.be/xx1hbhyZzfY)
 
 ## Architecture
 ![EFIS=architecture](https://github.com/sevenbeets/Shrekt-EFIS-SCDFXIBM/blob/master/EFIS-architecture.png)
