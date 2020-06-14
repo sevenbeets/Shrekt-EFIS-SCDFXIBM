@@ -26,7 +26,7 @@ Introducing EFIS, short for Early Fire Intervention System. A lightweight IoT de
 ![EFIS-device](https://github.com/sevenbeets/Shrekt-EFIS-SCDFXIBM/blob/master/EFIS-device.png)
 
 ## Long description
-[More detail can be found here](DESCRIPTION.md)
+[More details can be found here](DESCRIPTION.md)
 
 ## Demo
 ![EFIS-demo](https://github.com/sevenbeets/Shrekt-EFIS-SCDFXIBM/blob/master/demo.png)
