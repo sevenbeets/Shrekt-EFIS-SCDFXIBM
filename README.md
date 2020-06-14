@@ -24,7 +24,7 @@ Introducing EFIS, short for Early Fire Intervention System. A lightweight IoT de
 
 
 ## Long description
-[More detail can be found here here](DESCRIPTION.md)
+[More detail can be found here](DESCRIPTION.md)
 
 ## Getting started
 
