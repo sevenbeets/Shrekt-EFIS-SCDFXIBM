@@ -15,7 +15,7 @@
 Rubbish chute fires make up one-third of total fires in Singapore. These fires are usually small, contained, and pose little risk of threatening human life. Such fires can be easily put out by members of the public rather than involving SCDF personnel. Calls received on the premise of rubbish chute fires take up precious, limited SCDF resources, which could be better utilised to focus on major fires and other life-threatening emergencies.
 
 ### The idea
-A lightweight IoT device that will be deployed into every rubbish chute in Singapore. Upon detection of fire, the device will immediately alert nearby Community First Responders (CFRs) via the SCDF myResponder application to respond to the fire. It will also send its collected data to the SCDF data centre for further data analysis. Timestamp and location data of fire gives SCDF huge insights into the actual frequency of rubbish fires and hotspots. This can help SCDF to allocate resources appropriately in public education and identification of the culprits of rubbish chute fires.
+Introducing EFIS, short for Early Fire Intervention System. A lightweight IoT device that will be deployed into every rubbish chute in Singapore. Upon detection of fire, the device will immediately alert nearby Community First Responders (CFRs) via the SCDF myResponder application to respond to the fire. It will also send its collected data to the SCDF data centre for further data analysis. Timestamp and location data of fire gives SCDF huge insights into the actual frequency of rubbish fires and hotspots. This can help SCDF to allocate resources appropriately in public education and identification of the culprits of rubbish chute fires.
 
 ## Pitch video
 
@@ -24,7 +24,7 @@ A lightweight IoT device that will be deployed into every rubbish chute in Singa
 
 
 ## Long description
-
+[More detail can be found here here](DESCRIPTION.md)
 
 ## Getting started
 
