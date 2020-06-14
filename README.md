@@ -3,7 +3,7 @@
 ## Contents
 1. [Short description](#short-description)
 1. [Pitch video](#pitch-video)
-1. [Architecture](#Architecture)
+1. [Architecture](#architecture)
 1. [Long description](#long-description)
 1. [Getting started](#getting-started)
 1. [Contributors](#contributors)
@@ -21,13 +21,15 @@ Introducing EFIS, short for Early Fire Intervention System. A lightweight IoT de
 
 
 ## Architecture
-
+![EFIS=architecture](https://github.com/sevenbeets/Shrekt-EFIS-SCDFXIBM/blob/master/EFIS-architecture.png)
+![EFIS-device](https://github.com/sevenbeets/Shrekt-EFIS-SCDFXIBM/blob/master/EFIS-device.png)
 
 ## Long description
 [More detail can be found here](DESCRIPTION.md)
 
 ## Getting started
-
+1. Upload esp32.ino to ESP32 controller.
+2. Run UI and connect with ESP32 controller
 
 ## Contributors
 1. Koh Zheng Qiang Shawn
