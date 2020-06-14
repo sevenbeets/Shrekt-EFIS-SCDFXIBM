@@ -1,0 +1,20 @@
+# Shrekt-EFIS-SCDFXIBM
+
+## Inspiration
+The SCDF Workplan Seminar 2019 revealed some of the most interesting innovations SCDF has to showcase thus far. Some of the highlights included the Modular Oil Tank Firefighting System, a high-tech equipment for tackling oil tank fires, and the revamped Medical Support Vehicle, purpose-built for mass casualty incidents during both peacetime and national emergencies.
+At the event, Mr K Shanmugam, Minister for Home Affairs and Minister for Law, has also mentioned about the growing challenge SCDF faces due to an ageing population and a physical environment that is growing increasingly complex and resource constrained – fewer NS personnel, fewer people available to serve in SCDF. This, this has prompted our team to come up with an idea to help SCDF optimise and manage her already scarce resources. This inspired us to come up with a comprehensive IoT system that will help drastically reduce the number of calls SCDF receive for rubbish chute fires, thus freeing up the resources to be more efficiently deployed in urgent and life-threatening situations. 
+
+## What it does
+A lightweight IoT device that will be deployed into every rubbish chute in Singapore. Upon detection of fire, the device will immediately alert nearby Community First Responders (CFRs) via the SCDF myResponder application to respond to the fire. It will also send its collected data to the SCDF data centre for further data analysis. Timestamp and location data of fire gives SCDF huge insights into the actual frequency of rubbish fires and hotspots. This can help SCDF to allocate resources appropriately in public education and identification of the culprits of rubbish chute fires.
+
+## How we built it
+ESP32 serves as the central processing unit for the IoT device. It is responsible for the processing of data received from the temperature sensor (TMP36) to detect fire in the rubbish chute. If fire is detected, data will be sent to the cloud for further data analytics. For the purpose of this prototype, we utilised MQTT for the fast communication between the IoT device and the cloud (IBM Cloud). In the cloud, a software (written in C#) provides an user interface (dashboard) for the user to analyse the collected data and check the health status of the IoT system.
+
+## Challenges we ran into
+This was our first attempt on building a complete IoT system to solve a serious problem Singapore is currently facing. As such, we were rather unfamiliar with the architecture (device, gateway, cloud) and communication protocols (MQTT). Therefore, we have to take up a lot of time to pick up these knowledges before the actual 48-hour hackathon. During the actual hackathon, we also face problems with the communication between the devices (IoT device and cloud). We had to spend a lot of time debugging these problems.
+
+## What we learnt
+We learnt that to invoke change and approach issues that already exist, sometimes looking at approaches that failed previously can broaden your solution by showing you key pitfalls and overlooks in the previous solution. Moreover, a simpler solution that is easy to implement increases the viability of a solution rather than a remarkably complex solution which would potentially lead to more pitfalls. Moreover simplicity again reduces resource usage as a solution that requires a lot of resources again reduces the feasibility or even the likelihood of implementation of the solution.
+
+## What's next for EFIS
+We learnt a lot in terms of IoT devices and key protocols, optimisation of a solution and lastly the importance of thorough research.  Moreover the concept of iterating through a proposed solution till there are only components which are important again increased our appreciation for the need for an elegant solution to a serious issue. Due to time constraints we were not able to perform portions of the data analytics which would be the direction for EFIS in the near future.
