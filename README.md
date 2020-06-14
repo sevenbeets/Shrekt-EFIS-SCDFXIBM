@@ -36,8 +36,7 @@ A lightweight IoT device that will be deployed into every rubbish chute in Singa
 1. Pang Jia Jun Vernon
 
 ## License
-This project is licensed under the Apache 2 License - see the [LICENSE](LICENSE.md) file for details
+This project is licensed under the Apache 2 License - see the [LICENSE](LICENSE.md) file for details.
 
 ## Acknowledgments
-
 * Based on [Code-and-Response's README template](https://github.com/Code-and-Response/Project-Sample/blob/master/README.md).
